@@ -1,0 +1,51 @@
+.car {
+    width:100px;
+    height:100px;
+    border:2px solid #2ded
+}
+
+.dolphin {
+     text-align:center;
+     color:red ;
+     background-color:khaki ;
+}
+
+.animal {
+    width:100px ;
+    height:100px ;
+    border:2px solid brown ;
+}
+
+.unicorn {
+    width:100px ;
+    height:100px ;
+    border:2px solid brown ;
+}
+
+.horror {
+    color:crimson;
+    border:3px solid goldenrod ;
+}
+
+.mouse {
+     border:2px solid gold ;
+     color:darkred ; 
+}
+
+.level {
+     width:100px ;
+     height:100px ;
+     border:2px solid brown ;
+}
+
+.book {
+     width:100px ;
+     height:100px;
+     border:2px solid brown ;
+}
+
+.pen {
+     width:100px ;
+    height:100px ;
+    border:2px solid brown ;
+}
